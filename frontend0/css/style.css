@@ -1,0 +1,41 @@
+body {
+    background-color: hsla(123, 100%, 61%, 0.116);
+    
+   }
+
+.container.mt-4.border {
+    background: #ffffff;
+}
+.container.d-flex.justify-content-between.align-items-center.mt-5.mb-0.pt-3.border.border-bottom-0 {
+    background: rgb(25 135 84);
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgb(25 135 84) !important;
+}
+/*span.navbar-brand.mb-0.h1.text-dark.ms-5 {
+    color: #ffffff;
+}*/
+
+h5.fw-bold.mb-3
+ {
+    color: #ffffff;
+}
+.card {
+  max-width: 100%;
+}
+
+/* ph3تعديل 
+ .cards-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+@media (max-width: 768px) {
+    .cards-container {
+        grid-template-columns: 1fr;
+    }
+}
+*/
